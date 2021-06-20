@@ -1,6 +1,6 @@
 # Projects
 
-# [Covid-19 Project](https://github.com/darienlizano/covid_portfolio_proj_sql)
+# [Covid-19 Dashboard](https://github.com/darienlizano/covid_portfolio_proj_sql)
 Using current Covid-19 world data (up to June 16th, 2021) from [Our World in Data](https://ourworldindata.org/covid-deaths), I wanted to find interesting insights within current data to discover trends and showcase them. I used Microsoft Excel and Micorsoft SQL to import data into SSMS for data exploration, then exporting tableau-specific queries into Excel to use for my [Tableau Dashboard](https://public.tableau.com/views/Covid-19Dashboard_16241426701840/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link).
 
 ![](https://github.com/darienlizano/covid_portfolio_proj_sql/blob/main/Covid_Dashboard.png)
